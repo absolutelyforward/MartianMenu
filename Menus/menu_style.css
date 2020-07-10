@@ -1,0 +1,38 @@
+h1 {
+	font-family: 'Fira Sans', sans-serif;
+	border-radius:20px;
+	border-bottom: solid;
+	padding:15px 0px;
+	margin:0px 500px;
+}
+h3{font-family: 'Roboto', sans-serif;	}
+span{font-family: 'Yellowtail', cursive;}
+
+body{
+	text-align: center;
+}
+
+ul{
+	color:white;
+	margin-top: 80px;
+	list-style: none;
+	background-color: #383B55;
+	padding:50px;
+	position: relative;
+	margin:80px 328px;
+	border-radius: 12px;
+	user-select: none;
+	transition-duration: 0.36s;
+}
+
+#go_home{
+	text-align: right;
+}
+
+ul:hover{
+	box-shadow: 1px 1px 15px rgb(0.1, 0.1, 0.1);
+}
+
+li{
+	margin-bottom: 10px;
+}
