@@ -19,8 +19,7 @@ background-color:#0B2254;
   text-align: center;
   user-select: none;
   padding:20px;
-  margin-top: 80px;
-  margin:80px 50px;
+  margin-top:80px;
 }
 
 #powered_by p{
@@ -49,14 +48,14 @@ h2{
 }
 .menus{
   text-align:center;
-  margin-top: 150px;
+  margin-top: 130px;
   user-select: none;
 }
 .menus a{
   text-decoration: none;
   padding:20px;
   font-family: 'Montserrat', sans-serif;
-  background-color: grey;
+  background-color: #12447C;
   margin:12px;
   color:white;
   border-radius: 3px;
