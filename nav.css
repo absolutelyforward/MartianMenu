@@ -33,9 +33,11 @@ nav{
 
 .n:hover{
   color:orange;
+  cursor: url('cur.png'), pointer;
 }
 #a2:hover{
   color:orange;
+  cursor: url('cur.png'), pointer;
 }
 
 
@@ -80,9 +82,11 @@ nav #h2{
 
 .n :hover{
   color:grey;
+  cursor: url('cur.png'), pointer;
 }
 #a2:hover{
   color:grey;
+  cursor: url('cur.png'), pointer;
 }
 
 
