@@ -4,8 +4,7 @@ html, body, *{
 }
 
 body {
-background-image:url("about/bg.jpg");
-background-repeat: no-repeat;
+background-color:#0B2254;
 
 }
 #powered_by{
